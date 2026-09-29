@@ -3,7 +3,7 @@
 To analyze student academic performance using Tableau and identify patterns in GPA, scores, attendance, motivation, study habits, and performance outcomes through interactive visualizations
 
 ## Dataset Used
--<a href= "https://github.com/Vidyatpcheettayil/Student-Performance-Analysis-Tableau/blob/main/Student%20Performance%20Dashboard.png">Dataset</a>
+-<a href= "Student-Performance-Analysis-Tableau/education_student_performance_dataset.xlsx at main · Vidyatpcheettayil/Student-Performance-Analysis-Tableau">Dataset</a>
 ## Questions(KPIs)
 -  How many students are included in the analysis? 
 -  What is the average GPA and average score? 
@@ -26,6 +26,8 @@ To analyze student academic performance using Tableau and identify patterns in G
 -	Interpreted the visualizations to identify patterns and relationships in student performance.
 
 ## Dashboard
+[https://github.com/Vidyatpcheettayil/Student-Performance-Analysis-Tableau/blob/main/Student%20Performance%20Dashboard.png]
+
 
  
 ## Project Insights
