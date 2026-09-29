@@ -1,2 +1,4 @@
 # Student-Performance-Analysis
-Interactive Tableau dashboard analyzing student academic performance, GPA, attendance, study habits, motivation, and performance outcomes.
+## Project O bjectives
+To analyze student academic performance using Tableau and identify patterns in GPA, scores, attendance, motivation, study habits, and performance outcomes through interactive visualizations
+
