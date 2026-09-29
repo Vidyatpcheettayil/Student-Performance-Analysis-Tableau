@@ -15,6 +15,7 @@ To analyze student academic performance using Tableau and identify patterns in G
 -  How are students distributed across different performance bands?
 -  
 ## Dashboard Interaction
+-<a href= "https://github.com/Vidyatpcheettayil/Student-Performance-Analysis-Tableau/blob/main/StudentPerformance_Tableau.twb">View Dashboard</a>
 
 
 ## Process
