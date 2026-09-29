@@ -26,7 +26,7 @@ To analyze student academic performance using Tableau and identify patterns in G
 -	Interpreted the visualizations to identify patterns and relationships in student performance.
 
 ## Dashboard
-[https://github.com/Vidyatpcheettayil/Student-Performance-Analysis-Tableau/blob/main/Student%20Performance%20Dashboard.png]
+![Student Performance Dashboard.png](https://github.com/Vidyatpcheettayil/Student-Performance-Analysis-Tableau/blob/main/Student%20Performance%20Dashboard.png)
 
 
  
