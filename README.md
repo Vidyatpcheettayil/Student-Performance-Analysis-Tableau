@@ -14,8 +14,6 @@ To analyze student academic performance using Tableau and identify patterns in G
 -  How do study hours and motivation levels relate to GPA? 
 -  How are students distributed across different performance bands?
 -  
-## Dashboard Interaction
--<a href= "https://github.com/Vidyatpcheettayil/Student-Performance-Analysis-Tableau/blob/main/StudentPerformance_Tableau.twb">View Dashboard</a>
 
 
 ## Process
@@ -25,6 +23,9 @@ To analyze student academic performance using Tableau and identify patterns in G
 -	Developed visualizations for GPA, scores, attendance, grade level, study hours, motivation, and performance bands. 
 -	Combined the visualizations into an interactive one-page dashboard with filters for Academic Year, Gender, Grade Level, Section, and Performance Band. 
 -	Interpreted the visualizations to identify patterns and relationships in student performance.
+
+## Dashboard Interaction
+-<a href= "https://github.com/Vidyatpcheettayil/Student-Performance-Analysis-Tableau/blob/main/StudentPerformance_Tableau.twb">View Dashboard</a>
 
 ## Dashboard
 ![Student Performance Dashboard.png](https://github.com/Vidyatpcheettayil/Student-Performance-Analysis-Tableau/blob/main/Student%20Performance%20Dashboard.png)
